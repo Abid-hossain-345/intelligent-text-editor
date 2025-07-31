@@ -46,41 +46,37 @@ New, Open, Save, Save As, Print, Export to PDF
 Hands-free interaction, voice support
 
 🛠️ Setup Instructions
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/your-username/intelligent-text-editor.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd intelligent-text-editor
 
-Create and activate a virtual environment (optional but recommended):
+3. Create and activate a virtual environment (optional but recommended):
 
 python -m venv venv
 source venv/bin/activate # macOS/Linux
 venv\Scripts\activate.bat # Windows
 
-Install the required dependencies:
+4. Install the required dependencies:
 
 pip install -r requirements.txt
 
-If not using requirements.txt, install manually:
+5. If not using requirements.txt, install manually:
 
 pip install pyqt5 openai pyttsx3 SpeechRecognition pyaudio
 
-Add your OpenAI API key:
+6. Add your OpenAI API key:
 
-Create a file named env.py and add:
+7. Create a file named env.py and add:
 OPENAI_API_KEY = 'your-api-key-here'
 
-Run the application:
+8. Run the application:
 
 python run.py
 
-
-
-📄 License
-This project is licensed under the MIT License.
 
 👨‍💻 Developer
 Md Abid Hossain
