@@ -1,5 +1,5 @@
 # intelligent-text-editor
-📝 Intelligent Text Editor:<br>
+📝 Intelligent Text Editor:
 
 An AI-powered, cross-platform text editor built using PyQt5 that integrates OpenAI's GPT-3.5-Turbo for intelligent writing assistance, along with speech-to-text and text-to-speech capabilities. Designed for modern users, the editor supports responsive layouts across desktop, tablet, and mobile devices.
 
@@ -10,6 +10,7 @@ The Intelligent Text Editor enhances the traditional writing experience by incor
 Whether you're a student, researcher, or content creator, this editor is a smart companion for boosting productivity and creativity.
 
 🚀 Features
+
 🤖 AI Chatbot (OpenAI GPT-3.5 Turbo)
 
 Summarize, paraphrase, and generate content
@@ -76,11 +77,6 @@ Run the application:
 
 python run.py
 
-📷 Screenshot
-You can include screenshots or a demo video here:
-
-
-Or insert a GIF/video:
 
 
 📄 License
